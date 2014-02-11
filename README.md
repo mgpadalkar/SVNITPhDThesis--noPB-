@@ -9,9 +9,9 @@ A template for using the SVNITPhDThesis.cls (v 13.10.26) class file. This is bas
 
 
 
-author : Milind Padalkar (milind.padalkar@gmail.com)
+author : Milind Padalkar
 
-supported by: Dr. Shailaja Patil (shailaja.patil11@gmail.com)
+supported by: Dr. Shailaja Patil
 
 motivation: All my friends in M.Tech. & PhD
 
