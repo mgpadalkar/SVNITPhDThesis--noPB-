@@ -1,0 +1,11 @@
+The main template file is "PhDThesis-template.tex" which uses the provided class file
+"SVNITPhDThesis.cls".
+
+The folder contains may .sty files which are used in the template.
+
+One may use either of the methods for generating the pdf viz. pdflatex of latex->ps->pdf.
+
+Thanks :-)
+
+--
+Milind

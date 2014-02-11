@@ -1,0 +1,11 @@
+The main template file is "PhDThesis-templatePB.tex" which uses the provided class file
+"SVNITPhDThesisPB.cls".
+
+The folder contains may .sty files which are used in the template.
+
+For correct pageborders, one may use latex->ps->pdf compilation option.
+
+Thanks :-)
+
+--
+Milind
