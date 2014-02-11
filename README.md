@@ -8,12 +8,19 @@ Last modified on: 26-10-2013
 A template for using the SVNITPhDThesis.cls (v 13.10.26) class file. This is based on the template used by Dr. Shailaja Patil.
 
 
+
 author : Milind Padalkar (milind.padalkar@gmail.com)
+
 supported by: Dr. Shailaja Patil (shailaja.patil11@gmail.com)
+
 motivation: All my friends in M.Tech. & PhD
+
 first created : Created as SVNITPhDReport.cls sometime in 2010.
+
 last modified on : 26-10-2013
+
 version : 26.10.23
+
 
 
 This template is provided without any warranty and should be modified by the user as per requirement.
